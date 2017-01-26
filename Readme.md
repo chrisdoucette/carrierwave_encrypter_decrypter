@@ -24,7 +24,7 @@ bundle install
 
 ## Getting Started
 
-Start off by trigerring the installer
+Start off by triggering the installer
 
 	rails g ced:install
 
